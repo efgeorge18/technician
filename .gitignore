@@ -212,3 +212,6 @@ app/data/*
 
 app/pdfs/*
 !app/pdfs/.gitkeep
+
+# Mac OS files
+.DS_Store
